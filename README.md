@@ -23,5 +23,5 @@ untuk melakukan akuisisi dan pengelolaan dokumen putusan pengadilan dengan keten
 
 ## Deployment
 
-To deploy this project run <a href="">apaan</a>
+To deploy this project run <a class="no-underline" href="https://colab.research.google.com/drive/1F08ozvpDBw4DVQTH9X835984Ig3JJv76?usp=sharing">Code</a>
 
