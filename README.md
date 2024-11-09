@@ -22,8 +22,7 @@ Proyek ini mengumpulkan data putusan pengadilan negeri Jakarta Barat dari direkt
 Dokumen putusan pengadilan adalah salah satu dokumen yang dapat dijadikan sebagai sumber pengetahuan sekaligus dapat dimanfaatkan sebagai dataset dalam domain Temu Kembali Informasi (TKI). Sifat dokumen ini terbuka dan tidak terikat hak atas kekayaan intelektual (HaKI).
 
 ## Fitur Proyek
-- *Pengambilan Data*: Data putusan dari [direktori putusan Mahkamah Agung](https://putusan3.mahkamahagung.go.id/direktori.html) diakses dan dieksplorasi melalui Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F08ozvpDBw4DVQTH9X835984Ig3JJv76?usp=sharing)
+- *Pengambilan Data*: Data putusan dari [direktori putusan Mahkamah Agung](https://putusan3.mahkamahagung.go.id/direktori.html) diakses dan dieksplorasi melalui Google Colab.
 - *Klasifikasi Kasus*: Narkotika dan Psikotropika.
 - *Periode Pengambilan Data*: Data mencakup putusan dari tahun 2023 hingga 2024, dengan total 50 putusan.
 - *Penyimpanan Data*: Menyimpan data dalam bentuk PDF di direktori terstruktur dan file Excel untuk ringkasan.
